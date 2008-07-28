@@ -1,0 +1,9 @@
+#summary The Art of NAV initiative
+#labels Featured
+
+= Introduction =
+
+"The Art of NAV" is name I am using for all the initiatives around NAV and creating "best practices" and other documents helping NAV decvelopers to create clear and clean code for Microsoft Dynamics NAV.
+
+
+= Details =
