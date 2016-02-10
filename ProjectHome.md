@@ -1,0 +1,1 @@
+Target of this project is to create "best practices" and other documentation for developers working with Microsoft Dynamics NAV
